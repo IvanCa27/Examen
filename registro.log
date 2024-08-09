@@ -1,0 +1,14 @@
+[2024-08-08 23:25:18] [ INFO ] [BD:36] Tablas creadas y datos de prueba insertados con éxito.
+[2024-08-08 23:25:18] [ ERROR] [OdontologoDAOH2:29] Error al guardar odontólogo: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-08-08 23:25:18] [ ERROR] [OdontologoDAOH2:29] Error al guardar odontólogo: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-08-08 23:25:18] [ ERROR] [OdontologoDAOH2:50] Error al listar odontólogos: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-08-08 23:30:40] [ INFO ] [BD:36] Tablas creadas y datos de prueba insertados con éxito.
+[2024-08-08 23:30:40] [ ERROR] [OdontologoDAOH2:30] Error al guardar odontólogo: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-08-08 23:30:40] [ ERROR] [OdontologoDAOH2:30] Error al guardar odontólogo: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-08-08 23:30:40] [ ERROR] [OdontologoDAOH2:51] Error al listar odontólogos: Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
